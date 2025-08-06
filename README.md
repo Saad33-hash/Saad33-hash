@@ -1,8 +1,21 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Learning React to transition from PHP-based UIs to modern, component-based frontend design.<br>Exploring Algorithmic Thinking through my course on Analysis of Algorithms, diving into recursion, time complexity, and optimization.<br>Beginner to intermediate level React projects, especially ones that involve state management, routing, or API integration.<br>Backend + frontend projects moving toward MERN stack.<br>Any university-level algorithm or data structure projects to practice real-world application.<br>React best practices — structuring components, managing state, using hooks effectively.<br>React best practices — structuring components, managing state, using hooks effectively.<br>Understanding the real-world application of time and space complexity in algorithms.<br>CRUD apps with PHP & MySQL<br><br>Learning paths for React as a beginner<br><br>Visualization and simplification of recursive functions and algorithm complexity<br><br>Network configurations in Packet Tracer<br><br>How to keep track of multiple academic tech stacks without burnout 💻🔥<br><br>I combine tech with psychology to understand how people learn and build smarter systems. Inspired by books like Make It Stick, I explore full-stack dev, algorithms, and systems thinking. My goal: join a FAANG company and eventually launch my own startup.
+I'm a Computer Science student passionate about building intuitive, intelligent systems by combining tech and psychology. Inspired by books like Make It Stick, I explore how people learn — and use that insight to write better code and design smarter solutions.
 
+Currently:
+
+Learning React to transition from PHP-based UIs to modern, component-driven design
+Exploring algorithm design through recursion, time complexity, and real-world optimization
+Working on CRUD-based full-stack apps, moving toward the MERN stack
+Practicing network simulations using Cisco Packet Tracer
+
+I’m especially interested in:
+
+React best practices (state management, hooks, routing)
+Visualization of algorithms and simplifying complex logic
+Backend–frontend integration and real-world data structures
+Managing multiple stacks without burning out 🔥
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saad Tariq) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saadtariq867@gmail.com) 
